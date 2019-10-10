@@ -1,0 +1,208 @@
+/*=======================================
+Template Design By Faith Msindzu.
+Author URI : http://www.digitalchampions.co.za
+========================================*/
+
+.header-content h2 span {
+  color: red;
+}
+.knowmore-btn:hover,
+.knowmore-btn:focus,
+.download-btn:hover,
+.download-btn:focus{
+  background-color: red;
+  border-color: red;
+}
+.main-nav li a:hover{
+  color: red;
+  text-decoration:bold;
+   border-bottom: 2px solid red;
+} 
+.navbar-default .navbar-nav > .active > a,
+.navbar-default .navbar-nav > .active > a:hover,
+.navbar-default .navbar-nav > .active > a:focus {
+  color: red;
+}
+.navbar-default .navbar-nav > li > a:hover,
+.navbar-default .navbar-nav > li > a:focus {
+  color: red;
+}
+.search-area input[type="text"]:focus:hover {
+  border-bottom: 1px solid red;  
+}
+.search-area input[type="text"]:focus {
+  border-bottom: 1px solid red;  
+}
+.search-area input[type="submit"] {
+  background-color: red;  
+}
+.tittle>span{
+  color: red;
+}
+.single-wc-content span {
+  border: 1px solid red;
+  color: red;
+}
+.single-wc-content:hover .wc-icon{
+  background-color: red;
+}
+.single-wc-content:hover .wc-tittle{
+  border-bottom: 2px solid red;  
+}
+.about-left {
+  background-color: red;  
+}
+.button-default {  
+  border: 2px solid red !important;
+  color: red !important;
+}
+.button-default:hover {
+  border-color: red;
+}
+.button-default:hover,
+.button-default:focus {
+  border-color: red;
+  background-color: red !important;  
+}
+.introduction-btn {
+  background-color: rgba(238, 69, 50, 0.8);
+}
+.team-info {
+  background: rgba(238, 69, 50, 0.8);
+}  
+.team-grid li:hover .team-address p {
+  color: red;
+}
+.single-service {
+  border-bottom: 14px solid red;
+  border-right: 4px solid red;
+  
+}
+.single-service:hover:after{  
+  background-color: red;
+}
+.single-service:hover .service-icon{
+  color: red;
+}
+.single-service:hover .service-title{
+  color: red;
+}
+.single-counter > span {
+  color: red;
+}
+.single-price .price-header {
+  background-color: red;
+ }
+ .single-price .price-header::after {
+  color: red;  
+}
+.single-price .price-amount {
+  border-bottom: 1px solid red;
+  color: red;  
+}
+.single-price a {
+  border-bottom: 1px solid red;
+}
+.standard-price a{
+  background-color: red;  
+}
+.single-from-blog .blog-title h2 a:hover,
+.single-from-blog .blog-title h2 a:focus{
+  color: red; 
+}
+.single-from-blog .blog-title .blog-admin{
+  color: red;
+}
+.single-from-blog .blog-footer a:hover,
+.single-from-blog .blog-footer a:focus { 
+  color: red;
+}
+.contact-form .form-control:focus {
+  border-color: red;   
+} 
+.portfolio-menu ul li:hover{
+  color: red;
+  border-color: red;  
+}
+.portfolio-social-icon a {
+  background-color: red;
+}
+.portfolio-title {
+  background-color: red;
+}
+.blog-banner-area .breadcrumb li.active{
+  color: red;
+}
+.blog-pagination > li > a:hover,
+.blog-pagination > li > span:hover,
+.blog-pagination > li > a:focus,
+.blog-pagination > li > span:focus{
+  background-color: red;  
+  border-color:#ee4532;  
+}
+.single-widget h2 {
+  border-left: 3px solid red;  
+}
+.popular-post-widget .media-heading a:hover,
+.popular-post-widget .media-heading a:focus{
+  color: red;  
+}
+.instagram-feed .slick-prev::before,
+.instagram-feed .slick-next::before {
+  color: red;  
+}
+.instagram-feed .slick-dots li.slick-active button{
+  background-color: red;
+}
+.instagram-feed .slick-dots li.slick-active button::before{
+  color: red
+}
+.comment-form .form-control:focus {
+  border-color: red;   
+} 
+.error-no {
+  border: 2px solid red;  
+}
+.error-no p {
+  color: red;
+}
+.blog-details-content>a:hover{
+  color: red;
+}
+.scrollToTop {  
+  color: red;  
+}
+.scrollToTop:hover,
+.scrollToTop:focus{  
+  background-color: red; 
+}
+.loader {  
+  background: red;
+  background: -moz-linear-gradient(left, red 10%, rgba(255, 255, 255, 0) 42%);
+  background: -webkit-linear-gradient(left, red 10%, rgba(255, 255, 255, 0) 42%);
+  background: -o-linear-gradient(left, red 10%, rgba(255, 255, 255, 0) 42%);
+  background: -ms-linear-gradient(left, red 10%, rgba(255, 255, 255, 0) 42%);
+  background: linear-gradient(to right, red 10%, rgba(255, 255, 255, 0) 42%);  
+}
+.loader:before {
+  background: red; 
+}
+.footer-bottom p span{
+  color: red;
+}
+.blog-pagination > li > a,
+.blog-pagination > li > span {
+  color: red; 
+}
+.blog-pagination > li > a:hover,
+.blog-pagination > li > span:hover,
+.blog-pagination > li > a:focus,
+.blog-pagination > li > span:focus{
+  background-color: red;  
+  border-color:#ee4532;
+}
+
+/*=======================================
+Design By Faith Msindzu.
+Author URI : http://www.digitalchampions.co.za/
+========================================*/
